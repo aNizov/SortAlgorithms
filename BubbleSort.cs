@@ -4,6 +4,7 @@ namespace ANSortAlgorithms
 {
 	public static partial class SortAlgorithms
     {
+
 		/// <summary>
 		/// Имплементация алгоритма пузырьковой сортировки. Сортировка по возрастанию.
 		/// </summary>
